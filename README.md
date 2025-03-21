@@ -10,9 +10,9 @@ The Homerun features of interest for training our model are:
         Rolling_HR (New Feature)
 
 We run four different models:
-        Ridge 
-        Lasso
-        ElasticNet 
+        Ridge, 
+        Lasso, 
+        ElasticNet,  
         RandomForest
         
 To account for the uncertainty of the game of baseball we run with the best model that doesn't overfit. 
