@@ -11,7 +11,7 @@ import os
 class Pitching_Deception_Calc:
     def __init__(self, csv_folder='CSV_Files'):
         self.csv_folder = csv_folder
-        self.plots_folder = 'Analysis_Plots'
+        self.plots_folder = 'Results'
         os.makedirs(self.plots_folder, exist_ok=True)
         os.makedirs(self.csv_folder, exist_ok=True)
 
