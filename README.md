@@ -22,3 +22,5 @@ A CSV file is created to save the predicted stats.
 
 
 The Next Project is Quantifying Pitching Deception. We look at four different metrics that I consider to be useful to quantifying deception.
+
+## updated version coming soon to fix biases
