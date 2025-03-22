@@ -18,3 +18,7 @@ We run four different models:
 To account for the uncertainty of the game of baseball we run with the best model that doesn't overfit. 
 
 A CSV file is created to save the predicted stats. 
+
+
+
+The Next Project is Quantifying Pitching Deception.
